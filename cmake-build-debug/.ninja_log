@@ -1,0 +1,12 @@
+# ninja log v5
+24	1748	6745728091048640	CMakeFiles/animalshelter.dir/User.cpp.obj	1160edcf864d7aea
+34	1770	6745728091148645	CMakeFiles/animalshelter.dir/Validator.cpp.obj	4350189335cda5d4
+0	1846	6745728092238652	CMakeFiles/animalshelter.dir/Shelter.cpp.obj	cb42b964544450d1
+17	1858	6745728092308648	CMakeFiles/animalshelter.dir/main.cpp.obj	80d2510a6a1660ee
+29	1994	6745728093418648	CMakeFiles/animalshelter.dir/Service.cpp.obj	f9aa787c717e00c
+1771	2200	6745728095588645	CMakeFiles/animalshelter.dir/tests.cpp.obj	80497781f937e5ae
+21	2343	6745728097088637	CMakeFiles/animalshelter.dir/Repository.cpp.obj	9f7efd58cd024f24
+1751	2557	6745728099918645	CMakeFiles/animalshelter.dir/RepositoryHTML.cpp.obj	c30970e0f7a08936
+1858	2651	6745728100848656	CMakeFiles/animalshelter.dir/RepositoryCSV.cpp.obj	ce96aab1338f5fa9
+1846	2756	6745728101918660	CMakeFiles/animalshelter.dir/UserInterface.cpp.obj	b3c9c77eae385fdd
+2756	3006	6745728104198640	animalshelter.exe	fb52012613b91e6

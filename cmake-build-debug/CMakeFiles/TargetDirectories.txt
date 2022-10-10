@@ -1,0 +1,3 @@
+C:/Users/maria/CLionProjects/animalshelter/cmake-build-debug/CMakeFiles/animalshelter.dir
+C:/Users/maria/CLionProjects/animalshelter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maria/CLionProjects/animalshelter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
